@@ -1,0 +1,7 @@
+.box {
+    transition: opacity 0.3s ease;
+}
+
+.container:hover> :not(:hover) {
+    opacity: 0.4;
+}
