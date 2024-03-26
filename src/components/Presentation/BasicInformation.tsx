@@ -3,7 +3,7 @@ export const BasicInformation = () => {
   return (
     <div className='w-full'>
       <div className='flex w-full justify-center lg:justify-start'>
-        <img src="./foto.png" alt="" className='w-2/3' />
+        <img src="./foto.png" alt="" className='w-2/3 md:w-1/2'  />
       </div>
       <h1 className='font-bold text-6xl text-principal-0 text-center lg:text-left'>Jhon Ospina</h1>
       <h2 className='font-semibold text-2xl lg:text-lg text-principal-0 mt-3 text-center lg:text-left'>Front-end developer</h2>

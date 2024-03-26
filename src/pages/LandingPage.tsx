@@ -20,7 +20,7 @@ export const LandingPage = () => {
     };
 
     return (
-        <div className='flex flex-wrap w-full h-screen [@media(max-height:600px)]:h-full'>
+        <div className='flex flex-wrap w-full h-screen [@media(max-height:700px)]:h-full'>
             <div className='flex flex-left justify-center w-full p-10 pt-20 lg:pl-24 lg:pr-2 lg:w-1/2 lg:justify-end lg:overflow-hidden'>
                 <div className='w-full lg:max-w-xl'>
                     <BasicInformation />
