@@ -4,7 +4,7 @@ import { SocialMedia } from '../interfaces/interfaces';
 
 const github = {
     id: 1,
-    link: 'https://github.com/jhonog',
+    link: 'https://github.com/jospina-dev-blossom',
     title: 'GitHub',
     icon: <FaGithub />
 }
@@ -18,7 +18,7 @@ const instagram = {
 
 const linkedIn = {
     id: 3,
-    link: 'https://www.linkedin.com/in/jospina-dev-blossom/',
+    link: 'https://www.linkedin.com/in/jhonjog/',
     title: 'LinkedIn',
     icon: <FaLinkedin />
 }
