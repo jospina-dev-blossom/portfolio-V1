@@ -18,8 +18,8 @@ const instagram = {
 
 const linkedIn = {
     id: 3,
-    link: 'https://www.linkedin.com/in/jhonjog/',
-    title: 'Instagram',
+    link: 'https://www.linkedin.com/in/jospina-dev-blossom/',
+    title: 'LinkedIn',
     icon: <FaLinkedin />
 }
 
